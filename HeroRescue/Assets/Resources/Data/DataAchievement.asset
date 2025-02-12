@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42ad6ff7f215c8344b02d15b1f242d17, type: 3}
+  m_Name: DataAchievement
+  m_EditorClassIdentifier: 
+  infos:
+  - des: "\u5230\u8FBE xx \u5173"
+    name: "\u62EF\u6551\u738B\u56FD"
+    contents:
+    - numberReward: 500
+      numberRequire: 50
+    - numberReward: 1000
+      numberRequire: 100
+    - numberReward: 1000
+      numberRequire: 200
+    - numberReward: 1000
+      numberRequire: 300
+    - numberReward: 1000
+      numberRequire: 500
+  - des: "\u6536\u96C6\u5B9D\u85CF xx \u6B21"
+    name: "\u6536\u96C6\u5B9D\u85CF"
+    contents:
+    - numberReward: 500
+      numberRequire: 20
+    - numberReward: 1000
+      numberRequire: 50
+    - numberReward: 1000
+      numberRequire: 100
+    - numberReward: 1000
+      numberRequire: 200
+  - des: "\u63F4\u6551\u5973\u5B69 xx \u6B21"
+    name: "\u63F4\u6551\u5973\u5B69"
+    contents:
+    - numberReward: 500
+      numberRequire: 20
+    - numberReward: 1000
+      numberRequire: 50
+    - numberReward: 1000
+      numberRequire: 100
+    - numberReward: 1000
+      numberRequire: 200
+  - des: "\u6253\u5F00\u5B9D\u7BB1 xx \u6B21"
+    name: "\u5B9D\u7BB1\u795E\u5077"
+    contents:
+    - numberReward: 500
+      numberRequire: 20
+    - numberReward: 1000
+      numberRequire: 50
+    - numberReward: 1000
+      numberRequire: 100
+    - numberReward: 1000
+      numberRequire: 200
+  - des: "\u51FB\u8D25\u6240\u6709\u54E5\u5E03\u6797 xx \u6B21"
+    name: "\u50F5\u5C38\u730E\u4EBA"
+    contents:
+    - numberReward: 500
+      numberRequire: 20
+    - numberReward: 1000
+      numberRequire: 50
+    - numberReward: 1000
+      numberRequire: 100
+    - numberReward: 1000
+      numberRequire: 200

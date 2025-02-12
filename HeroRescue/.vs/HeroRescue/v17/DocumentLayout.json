@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UnityProject\\Emoji Down The Hill\\HeroRescue\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E56CEF34-15D2-6113-3C62-8BB30D4D2F55}|Assembly-CSharp.csproj|D:\\UnityProject\\Emoji Down The Hill\\HeroRescue\\assets\\scripts\\skinshop\\skinshopitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E56CEF34-15D2-6113-3C62-8BB30D4D2F55}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\skinshop\\skinshopitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E56CEF34-15D2-6113-3C62-8BB30D4D2F55}|Assembly-CSharp.csproj|d:\\unityproject\\emoji down the hill\\herorescue\\assets\\scripts\\kiencode\\achievmentpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E56CEF34-15D2-6113-3C62-8BB30D4D2F55}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\kiencode\\achievmentpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E56CEF34-15D2-6113-3C62-8BB30D4D2F55}|Assembly-CSharp.csproj|D:\\UnityProject\\Emoji Down The Hill\\HeroRescue\\assets\\scripts\\manager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E56CEF34-15D2-6113-3C62-8BB30D4D2F55}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E56CEF34-15D2-6113-3C62-8BB30D4D2F55}|Assembly-CSharp.csproj|d:\\unityproject\\emoji down the hill\\herorescue\\assets\\scripts\\mainmenu\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E56CEF34-15D2-6113-3C62-8BB30D4D2F55}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E56CEF34-15D2-6113-3C62-8BB30D4D2F55}|Assembly-CSharp.csproj|D:\\UnityProject\\Emoji Down The Hill\\HeroRescue\\assets\\scripts\\skinshop\\skinshopmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E56CEF34-15D2-6113-3C62-8BB30D4D2F55}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\skinshop\\skinshopmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E56CEF34-15D2-6113-3C62-8BB30D4D2F55}|Assembly-CSharp.csproj|d:\\unityproject\\emoji down the hill\\herorescue\\assets\\scripts\\kiencode\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E56CEF34-15D2-6113-3C62-8BB30D4D2F55}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\kiencode\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E56CEF34-15D2-6113-3C62-8BB30D4D2F55}|Assembly-CSharp.csproj|D:\\UnityProject\\Emoji Down The Hill\\HeroRescue\\assets\\ad\\ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E56CEF34-15D2-6113-3C62-8BB30D4D2F55}|Assembly-CSharp.csproj|solutionrelative:assets\\ad\\ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E56CEF34-15D2-6113-3C62-8BB30D4D2F55}|Assembly-CSharp.csproj|d:\\unityproject\\emoji down the hill\\herorescue\\assets\\scripts\\kiencode\\bouderachievment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E56CEF34-15D2-6113-3C62-8BB30D4D2F55}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\kiencode\\bouderachievment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E56CEF34-15D2-6113-3C62-8BB30D4D2F55}|Assembly-CSharp.csproj|D:\\UnityProject\\Emoji Down The Hill\\HeroRescue\\assets\\scripts\\utils\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E56CEF34-15D2-6113-3C62-8BB30D4D2F55}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utils\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataController.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Emoji Down The Hill\\HeroRescue\\Assets\\Scripts\\KienCode\\DataController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\KienCode\\DataController.cs",
+              "ToolTip": "D:\\UnityProject\\Emoji Down The Hill\\HeroRescue\\Assets\\Scripts\\KienCode\\DataController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\KienCode\\DataController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwBcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T03:51:48.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AchievmentPanel.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Emoji Down The Hill\\HeroRescue\\Assets\\Scripts\\KienCode\\AchievmentPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\KienCode\\AchievmentPanel.cs",
+              "ToolTip": "D:\\UnityProject\\Emoji Down The Hill\\HeroRescue\\Assets\\Scripts\\KienCode\\AchievmentPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\KienCode\\AchievmentPanel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAxwB0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T03:31:05.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BouderAchievment.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Emoji Down The Hill\\HeroRescue\\Assets\\Scripts\\KienCode\\BouderAchievment.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\KienCode\\BouderAchievment.cs",
+              "ToolTip": "D:\\UnityProject\\Emoji Down The Hill\\HeroRescue\\Assets\\Scripts\\KienCode\\BouderAchievment.cs",
+              "RelativeToolTip": "Assets\\Scripts\\KienCode\\BouderAchievment.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvx4AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T03:08:03.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Emoji Down The Hill\\HeroRescue\\Assets\\Scripts\\Utils\\Utils.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utils\\Utils.cs",
+              "ToolTip": "D:\\UnityProject\\Emoji Down The Hill\\HeroRescue\\Assets\\Scripts\\Utils\\Utils.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utils\\Utils.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAuwLwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T10:44:48.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SkinShopItem.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Emoji Down The Hill\\HeroRescue\\Assets\\Scripts\\SkinShop\\SkinShopItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SkinShop\\SkinShopItem.cs",
+              "ToolTip": "D:\\UnityProject\\Emoji Down The Hill\\HeroRescue\\Assets\\Scripts\\SkinShop\\SkinShopItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SkinShop\\SkinShopItem.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAmwCsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T10:40:06.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SkinShopManager.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Emoji Down The Hill\\HeroRescue\\Assets\\Scripts\\SkinShop\\SkinShopManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SkinShop\\SkinShopManager.cs",
+              "ToolTip": "D:\\UnityProject\\Emoji Down The Hill\\HeroRescue\\Assets\\Scripts\\SkinShop\\SkinShopManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SkinShop\\SkinShopManager.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAADAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T10:06:55.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Emoji Down The Hill\\HeroRescue\\Assets\\Scripts\\MainMenu\\MenuController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu\\MenuController.cs",
+              "ToolTip": "D:\\UnityProject\\Emoji Down The Hill\\HeroRescue\\Assets\\Scripts\\MainMenu\\MenuController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu\\MenuController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwCoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T10:05:52.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ad.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Emoji Down The Hill\\HeroRescue\\Assets\\Ad\\Ad.cs",
+              "RelativeDocumentMoniker": "Assets\\Ad\\Ad.cs",
+              "ToolTip": "D:\\UnityProject\\Emoji Down The Hill\\HeroRescue\\Assets\\Ad\\Ad.cs",
+              "RelativeToolTip": "Assets\\Ad\\Ad.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwBkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T09:57:15.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Emoji Down The Hill\\HeroRescue\\Assets\\Scripts\\Manager\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\GameManager.cs",
+              "ToolTip": "D:\\UnityProject\\Emoji Down The Hill\\HeroRescue\\Assets\\Scripts\\Manager\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\GameManager.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAiwEQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T09:56:51.645Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6ff2f5a183db144bb01c9cbc7014122, type: 3}
+  m_Name: DataHero
+  m_EditorClassIdentifier: 
+  infos:
+  - itemName: "\u738B\u5B50"
+    nameSkin: 1
+    nameSkinSword: kiem
+    typeUnlock: 1
+    price: 0
+  - itemName: "\u72FC\u4EBA"
+    nameSkin: Hercules/hercules
+    nameSkinSword: Hercules/kiem hercules
+    typeUnlock: 1
+    price: 15000
+  - itemName: "\u56FD\u738B"
+    nameSkin: Athur/Athur
+    nameSkinSword: Athur/kiem Athur
+    typeUnlock: 1
+    price: 25000
+  - itemName: "\u795E\u5077"
+    nameSkin: Superman/superman
+    nameSkinSword: Superman/kiem superman
+    typeUnlock: 1
+    price: 70000
+  - itemName: "\u7687\u5E1D"
+    nameSkin: Holy/holy
+    nameSkinSword: Holy/kiem holy
+    typeUnlock: 1
+    price: 130000
+  - itemName: "\u9F99\u9A91\u58EB"
+    nameSkin: dragon Knight/dragon knight
+    nameSkinSword: dragon Knight/kiem dragon knight
+    typeUnlock: 1
+    price: 150000
